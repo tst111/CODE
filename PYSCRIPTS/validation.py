@@ -3,3 +3,4 @@ def validation(user):
 		print('Non valid user!')
 	else:
 		print('Valid user')
+	print('validation func')
